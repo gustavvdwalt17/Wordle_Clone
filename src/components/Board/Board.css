@@ -1,0 +1,16 @@
+.div-wrapper{
+width: 450px;
+    height: 450px;
+    /* color: white; */
+    /* background-color: wheatblue; */
+    /* align-items: center; */
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+margin-top: 6rem;
+
+}
+.sur-div{
+    display: flex;  
+    color: white;
+}

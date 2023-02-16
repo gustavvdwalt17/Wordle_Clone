@@ -1,0 +1,13 @@
+.keys{
+border: 1px solid white;
+padding: 1rem 1rem 1rem 1rem;
+margin: 0 0.2rem;
+color: white;
+}
+small{
+    color: white;
+}
+.disabled{
+    background-color: rgb(129, 129, 129);
+    pointer-events: none;
+}

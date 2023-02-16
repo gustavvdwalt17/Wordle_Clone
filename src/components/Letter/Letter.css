@@ -1,0 +1,16 @@
+.letter-div{
+   
+    border: 1px solid white;
+    padding:2rem 2rem 2rem 2rem;
+    width: 200px;
+    height: 30px;
+    display: flex;
+color: white;
+}
+.green{
+    background-color: green;
+}
+.almost{
+    background-color: orange;
+}
+.wrong{background-color: red;}
